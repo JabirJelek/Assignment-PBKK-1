@@ -1,7 +1,20 @@
+## This project
+This project is an assignment for one of my class in informatics, which the objective of this project is to build an application by ultilizing "laravel" frameworks and with the use of "Composer" to simply manage the necessary code
 
+## Requirements
+There are several requirement that must fulfilled in bulding this app, the requirements are:
 
+1. Contains a minimum of 5 input fields.
+2. an upload and display image files after submission.
+3. Uploaded files must have extensions .png/.jpg/.jpeg and a maximum size of 2 MB.
+4. Include validation.
+5. Have one field that can input a double value between 2.50 to 99.99.
+6. Provide a success flash message if the form is successfully submitted according to the requirements.
 
+## Sumamry
+This application can run accordingly with several requirement meet. Most of the requirement works, and you can check the overall app by forking this repository into yourself.
 
+Thank you
 
 
 
